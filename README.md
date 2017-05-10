@@ -7,4 +7,4 @@ específico, a letra a  vale 1, a letra b vale 2 e assim por diant
 palavra prima ou  não. Uma palavra é uma palavra prima se a soma de suas letras é um número primo
 
 
-* #### ***O exercício está sendo feito na linguagem JavaScript***
+* #### ***O exercício está foi feito na linguagem JavaScript***
