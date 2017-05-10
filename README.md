@@ -13,4 +13,4 @@ palavra prima ou  não. Uma palavra é uma palavra prima se a soma 
 
 ## Observação
 
-As palavras estão sendo buscadas via Ajax. Em meus testes com os navegadores Google Chrome e Mozilla Firefox, o Google Chrome apresentou um erro quando não executado em em um servidor local. Com isso, recomedo que este código seja executado em um servidor para perfeito funcionamento.
+As palavras estão sendo buscadas via Ajax. Em meus testes com os navegadores [Google Chrome] e Mozilla Firefox, o Google Chrome apresentou um erro quando não executado em em um servidor local. Com isso, recomedo que este código seja executado em um servidor para perfeito funcionamento.
