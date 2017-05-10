@@ -8,3 +8,7 @@ palavra prima ou  não. Uma palavra é uma palavra prima se a soma 
 
 
 * #### ***O exercício está foi feito na linguagem JavaScript***
+
+
+
+### Observação
