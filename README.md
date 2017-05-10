@@ -6,4 +6,6 @@ palavra é composta  somente por letras no intervalo a até z e A até
 específico, a letra a  vale 1, a letra b vale 2 e assim por diante, até a letra z, que vale 26. Do mesmo modo, a letra  A vale 27, a letra B vale 28 e a letra Z vale 52.  Você deve escrever um programa para determinar se uma palavra é uma 
 palavra prima ou  não. Uma palavra é uma palavra prima se a soma de suas letras é um número primo
 
+*
+
 #### O exercício está sendo feito na linguagem JavaScript
